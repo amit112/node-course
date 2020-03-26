@@ -1,4 +1,4 @@
-### Chapter 1 - Building Restful Api's using Express.js
+### Chapter 2 - Building Restful Api's using Express.js
 
 I have completed chapter  of express js . In this project i have implement CRUD rest api's using express.
 
