@@ -1,0 +1,7 @@
+{
+    "name": "My Express App - production",
+    "mail": {
+      "host": "Prod-mail-server",
+      "password": "app_password"
+    }
+}
